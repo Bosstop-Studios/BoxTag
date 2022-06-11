@@ -1,0 +1,13 @@
+name: BoxTag
+version: 1.0
+api-version: 1.18
+softdepend: [PlaceholderAPI]
+author: Sir_Blob_
+website: "https://sirblob.bosstop.ml"
+main: ml.bosstop.boxtag.Main
+description: Box Tag Game Mode Plugin
+#load: STARTUP
+
+commands:
+
+permissions:
